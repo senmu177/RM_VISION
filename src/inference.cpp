@@ -212,4 +212,4 @@ std::vector<OneArmor> startInferAndNMS(dataImg img_data ){
     }
     return qualifiedArmors;
 }
-
+//不知道干啥，随便注释点东西
